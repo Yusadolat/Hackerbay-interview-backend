@@ -1,3 +1,6 @@
+[![travis build](https://img.shields.io/travis/yusadolat/Hackerbay-interview-backend.svg?style=flat-square)](https://travis-ci.org/yusadolat/Hackerbay-interview-backend)
+[![codecov coverage](https://img.shields.io/codecov/c/github/yusadolat/Hackerbay-interview-backend.svg?style=flat-square)](https://codecov.io/github/yusadolat/Hackerbay-interview-backend)
+
 # Hackerbay Interview Backend
 
 ## A simple stateless microservice in Nodejs with the following functionalities -
