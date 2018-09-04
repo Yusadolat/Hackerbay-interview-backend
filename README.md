@@ -1,6 +1,3 @@
-[![travis build](https://img.shields.io/travis/yusadolat/Hackerbay-interview-backend.svg?style=flat-square)](https://travis-ci.org/yusadolat/Hackerbay-interview-backend)
-[![codecov coverage](https://img.shields.io/codecov/c/github/yusadolat/Hackerbay-interview-backend.svg?style=flat-square)](https://codecov.io/github/yusadolat/Hackerbay-interview-backend)
-
 # Hackerbay Interview Backend
 
 ## A simple stateless microservice in Nodejs with the following functionalities -
@@ -9,6 +6,7 @@ Authentication
 JSON patching
 Image Thumbnail Generation
 Getting Started
+
 clone the repository
 
 `$ git clone [https://github.com/Yusadolat/Hackerbay-interview-backend]`
@@ -16,9 +14,9 @@ install dependencies:
 
 `$ cd hackerbay-interview-backend && npm install`
 
-Then you need to add the private environment variables (API Keys):
+Then you need to add the environment variables:
 
-### Create a copy of the ".env,example" and name it as ".env".
+### Create a copy of the ".env.example" and name it as ".env".
 
 #### Populate it with the necessary secret keys:
 
