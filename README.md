@@ -33,7 +33,8 @@ Then edit the .env file and modify the API keys only for services that you will 
 
 `npm start`
 
-Now navigate to your browser and open http://localhost:{port}. If the app loads, congratulations – you're all set.
+Now navigate to your browser and open http://localhost:8081. If the port is not set in .env file.
+Congratulations – you're all set.
 
 Unit tests
 
