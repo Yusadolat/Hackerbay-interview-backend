@@ -22,11 +22,11 @@ Then you need to add the environment variables:
 
 #### macOS / Linux
 
-cp .env.example .env
+`cp .env.example .env`
 
 #### Windows
 
-copy .env.example .env
+`copy .env.example .env`
 
 Then edit the .env file and modify the API keys only for services that you will use.
 
